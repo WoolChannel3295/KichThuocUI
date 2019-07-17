@@ -1,0 +1,9 @@
+name: KichThuocUI
+api: 3.0.0
+main: KichThuoc\Main
+author: WoolChannel3295
+version: 69.0.0
+commands:
+  kichthuoc:
+    usage: /kichthuoc
+    description: Opens The SizeUI Menu
